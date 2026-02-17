@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sean%20Dai&fontAlign=50&fontColor=ffffff&fontSize=60&color=0:0d1117,50:1e3a8a,100:3b82f6&stroke=3b82f6&strokeWidth=1&animation=fadeIn&desc=systems%20%C2%B7%20infrastructure%20%C2%B7%20engineering&descAlign=50&descAlignY=75&descSize=14"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sean%20Dai&fontAlign=50&fontColor=ffffff&fontSize=60&color=0:0d1117,50:1e3a8a,100:3b82f6&animation=fadeIn&desc=systems%20%C2%B7%20infrastructure%20%C2%B7%20engineering&descAlign=50&descAlignY=75&descSize=14"/>
 </p>
 
 ```bash
