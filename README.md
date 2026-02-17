@@ -58,18 +58,14 @@ System design writeups
 
 ---
 
-<p align="center">
-  <a href="https://github.com/LatencyTDH">
-    <img src="https://komarev.com/ghpvc/?username=LatencyTDH&style=flat-square&color=3b82f6" alt="Profile views" />
-  </a>
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LatencyTDH&theme=tokyonight&hide_border=true" height="165"/>
+  <br/><br/>
+  <a href="https://github.com/LatencyTDH">
+    <img src="https://komarev.com/ghpvc/?username=LatencyTDH&style=flat-square&color=3b82f6" alt="Profile views" />
+  </a>
 </p>
 
 ---
