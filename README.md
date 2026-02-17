@@ -41,6 +41,10 @@ I like fast things, scalable architectures, and deleting code.
 | **[sec-analyzer](https://github.com/LatencyTDH/sec-analyzer)** | Programmatic SEC filing analysis | Python |
 | **[twobody](https://github.com/LatencyTDH/twobody)** | Two-body gravitational sim (Three.js) | HTML + JS |
 
+### Open Source Contributions
+
+[OpenClaw](https://github.com/openclaw/openclaw) · [Ray](https://github.com/ray-project/ray) · [Daft](https://github.com/Eventual-Inc/Daft)
+
 ---
 
 ## Right now
