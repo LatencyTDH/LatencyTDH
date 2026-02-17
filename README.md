@@ -23,11 +23,7 @@ I like fast things, scalable architectures, and deleting code.
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,rust,go,cs,cpp,js,ts,bash,powershell" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,kafka,redis,mongodb,mysql,postgres" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,spark,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,rust,go,cs,cpp,js,ts,bash,aws,azure,gcp,docker,kubernetes,kafka,redis,mongodb,mysql,postgres,linux,git,pytorch,tensorflow,spark&perline=12" />
 </div>
 
 ---
